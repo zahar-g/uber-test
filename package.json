@@ -1,0 +1,32 @@
+{
+  "name": "uber-test",
+  "version": "0.0.1",
+  "description": "React start app with usage of Uber API",
+  "main": "src/index.js",
+  "author": "Zakhar Gulchak <gulchak.zahar@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint",
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "prop-types": "^15.6.0",
+    "rambda": "^0.9.3",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.15.6",
+    "rxjs": "^5.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb": "^16.0.0",
+    "jest": "^21.2.1",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  }
+}
