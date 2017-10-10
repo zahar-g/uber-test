@@ -1,0 +1,10 @@
+{
+  "verbose": true,
+  "globals": {},
+  "moduleFileExtensions": [
+    "js",
+    "jsx"
+  ],
+  "testRegex": "*\\**.*test*.(js|jsx)$",
+  "unmockedModulePathPatterns": []
+}
